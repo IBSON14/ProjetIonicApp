@@ -5,3 +5,6 @@ lorsque vous creer un compte vous aurez un nouveau utilisateur avec qui vous pou
 
 Le projetIonic est celui du strapi
 le lien du repository git est https://github.com/IBSON14/ProjetIonic.git 
+
+
+Author: Ibrahima Thiame M2GLSI
